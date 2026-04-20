@@ -8,7 +8,7 @@ Modern UI: Clean, minimalist interface focusing on high-quality image presentati
 
 Optimized Performance: Built using Vite for lightning-fast HMR and build times.
 
-🛠️ Tech Stack
+ Tech Stack
 Frontend: React.js
 
 Styling: CSS3 / Bootstrap (or specify if you used Tailwind)
