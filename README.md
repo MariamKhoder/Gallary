@@ -31,5 +31,7 @@ A high-fidelity, responsive image gallery platform built with **React.js** and *
 
 3. Start the development server:
    `npm run dev`
+
+   
  Demo
 [https://gallary-sand-gamma.vercel.app/]
