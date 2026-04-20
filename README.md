@@ -1,12 +1,21 @@
-# React + Vite
+Photosen (Gallary)
+A high-fidelity, responsive image gallery platform built with React.js and Vite. This project focuses on transforming complex UI/UX designs into a pixel-perfect functional interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Features
+Responsive Design: Fully optimized for mobile, tablet, and desktop views.
 
-Currently, two official plugins are available:
+Modern UI: Clean, minimalist interface focusing on high-quality image presentation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Optimized Performance: Built using Vite for lightning-fast HMR and build times.
 
-## Expanding the ESLint configuration
+🛠️ Tech Stack
+Frontend: React.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Styling: CSS3 / Bootstrap (or specify if you used Tailwind)
+
+Build Tool: Vite
+
+Icons: FontAwesome / Lucide (Specify which you used)
+
+ Demo
+[https://gallary-sand-gamma.vercel.app/]
